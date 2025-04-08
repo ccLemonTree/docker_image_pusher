@@ -11,4 +11,4 @@ mysql
 redis
 docker.io/nvidia/cuda:11.6.1-devel-ubuntu20.04
 nacos/nacos-server:v2.1.1
-mysql/mysql-server
+--platform=linux/arm64 mysql/mysql-server
