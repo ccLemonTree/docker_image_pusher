@@ -6,12 +6,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nextcloud/all-in-one:latest
-nextcloud
-mysql
-redis
-docker.io/nvidia/cuda:11.6.1-devel-ubuntu20.04
-nacos/nacos-server:v2.1.1
---platform=linux/arm64 mysql/mysql-server
-tensorflow/tensorflow:2.12.0-gpu
-pytorch/pytorch:2.8.0-cuda12.8-cudnn9-devel
-nvcr.io/nvidia/tritonserver:24.01-py3
+#nextcloud
+#mysql
+#redis
+#docker.io/nvidia/cuda:11.6.1-devel-ubuntu20.04
+#nacos/nacos-server:v2.1.1
+#--platform=linux/arm64 mysql/mysql-server
+#tensorflow/tensorflow:2.12.0-gpu
+#pytorch/pytorch:2.8.0-cuda12.8-cudnn9-devel
+#nvcr.io/nvidia/tritonserver:24.01-py3
+--platform=linux/arm64 nvcr.io/nvidia/tritonserver:24.01-py3
