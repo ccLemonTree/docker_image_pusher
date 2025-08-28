@@ -17,4 +17,5 @@
 #nvcr.io/nvidia/tritonserver:24.01-py3
 #--platform=linux/arm64 nvcr.io/nvidia/tritonserver:24.01-py3
 #--platform=linux/arm64 python:3.12
-lmsysorg/sglang:v0.5.1.post2-cu128-b200
+#lmsysorg/sglang:v0.5.1.post2-cu128-b200
+pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
