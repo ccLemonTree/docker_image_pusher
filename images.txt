@@ -21,4 +21,7 @@
 #pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
 #nvcr.io/nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 #ghcr.io/huggingface/text-embeddings-inference:turing-1.8
-minio/minio:RELEASE.2024-05-28T17-19-04Z
+#minio/minio:RELEASE.2024-05-28T17-19-04Z
+apachepulsar/pulsar:2.8.2
+milvusdb/etcd:3.5.5-r2
+fsouza/fake-gcs-server
