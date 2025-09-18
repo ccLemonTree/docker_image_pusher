@@ -25,5 +25,6 @@
 #apachepulsar/pulsar:2.8.2
 #milvusdb/etcd:3.5.5-r2
 #fsouza/fake-gcs-server
-jaegertracing/all-in-one:latest
-milvusdb/milvus-env:ubuntu22.04-20250628-af8479b
+#jaegertracing/all-in-one:latest
+#milvusdb/milvus-env:ubuntu22.04-20250628-af8479b
+lmsysorg/sglang:latest
