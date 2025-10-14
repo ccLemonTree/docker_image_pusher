@@ -29,4 +29,5 @@
 #milvusdb/milvus-env:ubuntu22.04-20250628-af8479b
 #lmsysorg/sglang:latest
 #ghcr.io/huggingface/text-embeddings-inference:89-1.8
-nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
+#nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
+nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
