@@ -30,4 +30,6 @@
 #lmsysorg/sglang:latest
 #ghcr.io/huggingface/text-embeddings-inference:89-1.8
 #nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
-nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+#nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+vllm/vllm-openai:v0.10.2-aarch64
+vllm/vllm-openai:v0.11.0-aarch64
