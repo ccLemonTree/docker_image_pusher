@@ -43,4 +43,5 @@
 #minio/minio:RELEASE.2024-12-18T13-15-44Z
 #nvcr.io/nvidia/tritonserver:25.10-py3-sdk
 #redis:8.4.0
-nvcr.io/nvidia/tritonserver:25.11-py3
+#nvcr.io/nvidia/tritonserver:25.11-py3
+--platform=linux/arm64 nvcr.io/nvidia/tritonserver:25.11-py3
