@@ -45,4 +45,5 @@
 #redis:8.4.0
 #nvcr.io/nvidia/tritonserver:25.11-py3
 #--platform=linux/arm64 nvcr.io/nvidia/tritonserver:25.11-py3
-nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
+#nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
+milvusdb/woodpecker:latest
