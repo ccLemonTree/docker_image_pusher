@@ -50,4 +50,4 @@
 #samge/llm-benchmark
 #ghcr.io/huggingface/text-embeddings-inference:86-1.9
 lmsysorg/sglang:dev-cu13
-lmsysorg/sglang:dev-gemma4
+#lmsysorg/sglang:dev-gemma4
