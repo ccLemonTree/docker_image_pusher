@@ -48,4 +48,6 @@
 #nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
 #milvusdb/woodpecker
 #samge/llm-benchmark
-ghcr.io/huggingface/text-embeddings-inference:86-1.9
+#ghcr.io/huggingface/text-embeddings-inference:86-1.9
+lmsysorg/sglang:dev-cu13
+lmsysorg/sglang:dev-gemma4
