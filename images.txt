@@ -52,4 +52,5 @@
 #lmsysorg/sglang:dev-cu13
 #lmsysorg/sglang:dev-gemma4
 #python:3.12-slim
---platform=linux/arm64 milvusdb/milvus:v2.6.7 
+#--platform=linux/arm64 milvusdb/milvus:v2.6.7 
+docker.elastic.co/logstash/logstash:7.17.29
