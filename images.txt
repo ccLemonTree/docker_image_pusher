@@ -56,4 +56,5 @@
 #docker.elastic.co/logstash/logstash:7.17.29
 #confluentinc/cp-zookeeper:6.2.10
 #confluentinc/cp-kafka:6.2.10
-kafbat/kafka-ui:latest
+#kafbat/kafka-ui:latest
+conduktor/conduktor-console:1.46.1
