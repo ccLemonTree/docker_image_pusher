@@ -57,7 +57,8 @@
 #confluentinc/cp-zookeeper:6.2.10
 #confluentinc/cp-kafka:6.2.10
 #kafbat/kafka-ui:latest
-conduktor/conduktor-console:1.46.1
-conduktor/conduktor-data-generator:0.10.0
-docker.redpanda.com/redpandadata/redpanda:v24.1.6
-conduktor/conduktor-console-cortex:1.46.1
+#conduktor/conduktor-console:1.46.1
+#conduktor/conduktor-data-generator:0.10.0
+#docker.redpanda.com/redpandadata/redpanda:v24.1.6
+#conduktor/conduktor-console-cortex:1.46.1
+python:3.12
