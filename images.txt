@@ -66,4 +66,5 @@
 #postgres:17
 #redis:latest
 #nginx:1.29.8
-vllm/vllm-openai:v0.27.0-cu129-ubuntu2404
+#vllm/vllm-openai:v0.27.0-cu129-ubuntu2404
+vllm/vllm-openai:qwen38-cu129
